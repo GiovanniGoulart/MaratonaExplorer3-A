@@ -1,2 +1,2 @@
-# Projeto criado durante a Maratona Explorer 3
-##Criacao de um cardapio de bares e restaurantes.
+# Projeto desenvolvido durante a Maratona Explorer 3
+##Criação de um modelo de  cardapio para bares e restaurantes.
